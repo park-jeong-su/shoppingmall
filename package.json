@@ -1,0 +1,11 @@
+{
+  "name": "brightshopping",
+  "version": "1.0.0",
+  "description": "node js shopping mall made by jeongsu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "park-jeong-su",
+  "license": "ISC"
+}
